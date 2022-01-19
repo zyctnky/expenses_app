@@ -1,16 +1,23 @@
-# expenses_app
+# Personal Expenses App
 
-A new Flutter project.
+This is the first project which I developed in the flutter learning process.
 
-## Getting Started
+## About App
+I did this project by following the course which is published by [Maximilian Schwarzmüller](https://www.udemy.com/user/academind) on Udemy. [Click here](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps) to access this course. I made this application after watching the 4th part of the course. 
 
-This project is a starting point for a Flutter application.
+## New Features
 
-A few resources to get you started if this is your first Flutter project:
+Apart from the improvements which is made in the course, I made the following additions:
+- I added the category field to expenses. I have the user select it by using dropdown on the add expense screen.
+- I changed the design of the expense on the expense listing screen.
+- I used the Drawer widget to filter by date and category.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+As I complete the other sections in the course, I want to continue to share by making additions to the projects.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+<img src="https://github.com/ZiyaCetinkaya/expenses_app/blob/master/assets/images/screens/Screenshot_20220119_212753_com.example.expenses_app.jpg" width=30% height=30%> &nbsp;
+<img src="https://github.com/ZiyaCetinkaya/expenses_app/blob/master/assets/images/screens/Screenshot_20220119_212817_com.example.expenses_app.jpg" width=30% height=30%> &nbsp;
+<img src="https://github.com/ZiyaCetinkaya/expenses_app/blob/master/assets/images/screens/Screenshot_20220119_212804_com.example.expenses_app.jpg" width=30% height=30%> &nbsp;
+<img src="https://github.com/ZiyaCetinkaya/expenses_app/blob/master/assets/images/screens/Screenshot_20220119_213014_com.example.expenses_app.jpg" width=30% height=30%> &nbsp;
+<img src="https://github.com/ZiyaCetinkaya/expenses_app/blob/master/assets/images/screens/Screenshot_20220119_213025_com.example.expenses_app.jpg" width=30% height=30%> &nbsp;
+<img src="https://github.com/ZiyaCetinkaya/expenses_app/blob/master/assets/images/screens/Screenshot_20220119_213135_com.example.expenses_app.jpg" width=30% height=30%> &nbsp;
